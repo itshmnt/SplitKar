@@ -179,6 +179,7 @@ export default function LandingPage() {
       {/* ───── Footer ───── */}
       <footer className="border-t bg-gray-50 py-12 text-center text-sm text-muted-foreground">
         © {new Date().getFullYear()} SplitKar. All rights reserved.
+        <br /> Made with ❤️ by Hemant
       </footer>
     </div>
   );
